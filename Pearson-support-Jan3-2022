@@ -1,0 +1,77 @@
+PearsonVUE
+
+I’ve sent in an email once already, but I haven’t seen any response. I think it was from the review, so maybe that doesn’t get a response, even when asking for one. 
+
+Long story short, I was in the middle of the hardest technical certification test of my life - AWS Certified Solutions Architect - Professional - and the workstation I was taking the test on shutdown and rebooted. 
+
+I raised my hand, a proctor came in, then had to find another workstation to put me at. Had to get logged in, moved over, and reconnected. Then, I had to get my mind right and get back into testing mode. The proctor told me she was going to get my 10 minutes back, and that she needed to make a few calls. 
+
+I never saw the time change. I finished my test, but with no time to review the test questions I was unsure of. This test is notorious for being one you have to move quickly through as it is. 
+
+When I finished up and dropped off my sheet and pen, she stated AWS would not give me the time back, as “they couldn’t confirm when it happened.” I accepted that as ‘it is what it is,’ and left. I thought I had done horribly. I’ve joked “I got a 35% at best.”
+
+As I’ve said, and you’ll see in the emails below, I wouldn’t be pushing back on this so hard had I scored a 30%. Passing is 750. I got a 728.
+
+I was 1 more correct question away from passing. This is a test people run out of time from. I lost 10 minutes and had a giant distraction right in the middle, as well as the question of when I was going to get my time back hovering in the back of my brain the whole time.  
+
+For AWS’ part, they state this is your issue to address. I don’t think so, but I’m starting a thread with everyone involved to minimize the amount of back-and-forth necessary. I believe this is on AWS to address the missing time, as I interpreted this from the proctor. 
+
+I’m trying to figure out how, and who, makes the decision and has the levers to handle this. There should at least be logs of a reconnect to the test from another workstation, and the workstation should have the reboot event in its logs. 
+
+I would like AWS to take all that in consideration of the weighted score and pass this test, but I don’t imagine that’s going to happen. I’d rather not take the test again, but if I do need to, obviously I will. More than that, however, I’d like to know what the process is for addressing something like this in real-time. 
+
+I understand the testing integrity, and I understand wanting to keep the testing standards high - I believe I met them and would have earned the certification. This was already the single hardest test I’d ever taken. Certification has profession ramifications within my organization for completion. I scheduled this test for the end of the year to maximize study time. Long and short, I was shorted the allotted time agreed to for this test and came up 1 short for it. 
+
+I’m really frustrated and would like some help on how to remedy this. 
+
+Below, I’ve included the correspondence to AWS Support so far, and my response just before this. 
+
+Whatever can be done, I would greatly appreciate it. 
+
+Greg
+
+——————————————————————————————————————————————————————
+
+AWS reply to my initial inquiry at 7:59AM CST Jan 2
+
+Hello,
+
+Thank you for contacting AWS Training and Certification.
+
+This issue is best handled directly with our exam delivery partners. If you have not already done so, please contact PSI via the following link:
+
+https://psi-cdexp.zendesk.com/hc/en-us/requests/new?ticket_form_id=360000233892
+
+or contact Pearson VUE directly at:
+
+https://home.pearsonvue.com/aws/contact
+
+If you still need assistance, please provide me with the ticket or case number you received. For additional inquiries, please submit a new case using this link:
+
+https://aws.amazon.com/contact-us/aws-training/?src=aws_training_faqs
+
+Best regards,
+Joshua
+Amazon Web Services
+
+———————————————————————————————————————————————————
+
+My reply today, just before this email at 11:59AM CST Jan 2:
+
+Hi Joshua,
+
+Just want to make sure this is correct. 
+
+The reason I ask this question is, I was told by the testing facility I was not given the time back because of a decision from AWS’ support. 
+
+This is why I’m reaching out here. 
+
+The statement from the proctor at the time was ’Support was unable to verify the amount of time, so they didn’t give any.’ 
+
+I challenge that, as, as I understand it, these are remote sessions. There should be logs of time from when I disconnected, and, at very least, a log of when the proctor logged back into the test from the other workstation. Taking the intangibles out of getting distracted and losing the focus and concentration, having to get back into the test-taking mindset, and secondarily subconsciously worrying about the clock not changing. 
+
+If Pearson owns all the hardware and the systems the test runs on, I’m totally fine with pushing this further with them, but I don’t want to get into a back-and-forth between the three parties. 
+
+I’d also not be pushing this if I had scored a 30%, but given I was LITERALLY 1 correct answer away from securing this certification, I have to lean on this. This test is notorious for not being able to be finished in the time given, and I was shorted my review time that I believe, and I think shows in what reviewed questions I did correct, would have made the difference. 
+
+Who controls the decision and the mechanisms of giving time back when a hardware failure occurs? How do we get all of us in the same conversation?
